@@ -16,3 +16,4 @@
 /.direnv/
 # apt repo
 /debian/
+/src/dbus/
